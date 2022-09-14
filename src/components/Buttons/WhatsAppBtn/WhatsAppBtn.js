@@ -16,7 +16,7 @@ function WhatsAppBtn(props) {
   const { classes } = props;
 
   function sendWhatsAppMessage() {
-    const number = "000000000";
+    const number = "351914860322";
     const messageToSend = "Olá, como poderia obter mais informações?";
     const url = `https://wa.me/${number}?text=${messageToSend}`;
     window.open(url);
