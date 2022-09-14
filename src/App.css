@@ -1,0 +1,16 @@
+.fullHeight{
+  min-height: 100vh;
+}
+
+.lineHeight{
+  line-height: 2.2rem;
+}
+
+.bgColor {
+  background-color: #F7F6F1;
+}
+
+.main_title {
+  font-family: 'Lucida Handwriting';
+  color: #581002;
+}

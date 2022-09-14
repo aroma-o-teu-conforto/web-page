@@ -1,0 +1,20 @@
+#navBar{
+    width: 100%;
+}
+
+.navBar_toolbar {
+    background-color: #581002;
+    color: #F7F6F1;
+}
+
+.navigation__link{
+    color: #F7F6F1;
+    transition: color 0.5s;
+    padding: 0 0.5rem;
+    cursor: pointer;
+}
+
+.navigation__link:hover,
+.navigation__link:active{
+    color: blue;
+}

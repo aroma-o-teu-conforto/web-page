@@ -1,0 +1,20 @@
+#home_content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 75px;
+}
+
+.home__text{
+    margin-top: -150px;
+    color: #581002;
+}
+
+#home_content h1{
+    padding: 1px 1px;
+}
+
+#home_content .section-1__button{
+    margin: 10px 100px;
+}
